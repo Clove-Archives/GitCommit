@@ -1,7 +1,7 @@
 # GitCommit
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/doughmination/GitCommit2/refs/heads/main/assets/icon.png" alt="GitCommit Logo" width="128" height="128">
+<img src="https://raw.githubusercontent.com/clove-archives/GitCommit2/refs/heads/main/assets/icon.png" alt="GitCommit Logo" width="128" height="128">
 </div>
 
 <div align="center">
